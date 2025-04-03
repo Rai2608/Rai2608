@@ -23,14 +23,6 @@
 
 ---
 
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="150px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" height="150px">
-</p>
-
----
-
 ### 📣 **Let's Connect!**
 <p align="center">
   <a href="https://www.linkedin.com/in/paramita-das-14116b2b4/">
