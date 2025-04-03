@@ -31,24 +31,6 @@
 
 ---
 
-### 🔥 **Top Projects**
-#### 🚀 [Project 1: DigiLocker for Companies](https://github.com/your-username/digilocker-project)
-> A secure digital document storage solution for companies.
-
-#### 🛡️ [Project 2: Safety Wristband for Women](https://github.com/your-username/safety-wristband)
-> Smart wearable with SOS, GPS tracking & health monitoring.
-
-#### 📚 [Project 3: AI College Recommendation System](https://github.com/your-username/ai-college-recommendation)
-> AI-powered platform to guide students in choosing colleges.
-
----
-
-### 🚀 **Open Source Contributions**
-- [Contribution 1](https://github.com/open-source-project)
-- [Contribution 2](https://github.com/open-source-project)
-
----
-
 ### 📣 **Let's Connect!**
 <p align="center">
   <a href="https://www.linkedin.com/in/paramita-das-14116b2b4/">
