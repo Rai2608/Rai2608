@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Rai2608/blob/main/banner.png" alt="Profile Banner">
+<img src="https://raw.githubusercontent.com/Rai2608/main/banner.png" alt="Profile Banner">
+
 </p>
 
 <!-- Introduction -->
