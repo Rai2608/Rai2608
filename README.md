@@ -1,75 +1,95 @@
-<h1 align="center">>_ paramita.exe</h1>
+<h1 align="center">Hi 👋, I'm Paramita</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=booting+up...;building+ai+systems;healthcare+%2F+data+%2F+backend;scaling+ideas+into+systems;no+hello+world+here" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+AI+Products;Healthcare+%2B+Data+%2B+Systems;Backend+%2F+System+Design+Focused;Future+Tech+Founder" />
 </p>
 
 ---
 
-```bash
-$ whoami
-```
+## 🚀 About Me
 
-```txt
-paramita  
-builder | backend | ml  
-```
+💡 Building AI-powered products at the intersection of **healthcare, data, and scalable systems**
 
----
+🧠 Developed:
+- 🩺 **DiaSense AI** → diagnostic intelligence for early health insights  
+- 📱 **Pulse AI** → intelligent application  
+- 📊 **Hotstar Churn Analysis** → data-driven user retention modeling  
 
-```bash
-$ cat about.txt
-```
+⚙️ Focus:
+- Backend engineering  
+- System design  
+- Deploying ML beyond notebooks  
 
-```txt
-i don't just train models — i make them work.
-
-built:
-- diasense ai     → diagnostic intelligence system
-- pulse ai        → real-time intelligent app
-- churn analysis  → user behavior + retention patterns
-
-currently:
-- breaking + rebuilding backend systems
-- learning how systems fail (and scale)
-- pushing ml beyond notebooks into real usage
-```
+🎯 Goal: Build high-impact, scalable tech products  
 
 ---
 
-```bash
-$ ls stack/
-```
+## 🌐 Connect With Me
 
-```txt
-ai/        → python pytorch sklearn pandas numpy
-backend/   → node fastapi django
-frontend/  → react next
-db/        → mongodb mysql
-tools/     → git github-actions figma
-```
-
----
-
-```bash
-$ status
-```
-
-```txt
-→ building in: ai x healthcare
-→ focus: systems that scale
-→ long term: something of my own
-```
+<p align="center">
+  <a href="https://instagram.com/@paramita_exe">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/paramita-das-14116b2b4">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Stardust_2613">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:paro12959@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📊 system activity
+## 💼 Featured Projects
 
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=Rai2608&theme=react-dark)
+🚀 **DiaSense AI**  
+AI-powered diagnostic assistant focused on early health insights  
+
+⚡ **Pulse AI**  
+Smart application designed for real-time intelligence  
+
+📊 **Hotstar Churn Analysis**  
+User behavior analysis & churn prediction for retention strategies  
 
 ---
 
-## 📈 logs
+## ⚙️ Tech Stack
+
+### 🧠 AI / Data
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🌐 Development
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 Activity Graph
+
+![Paramita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rai2608&theme=react-dark)
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Rai2608&theme=dark" />
@@ -78,21 +98,12 @@ $ status
 
 ---
 
-```bash
-$ connect --secure
-```
+## 🎯 Vision
 
-<p align="center">
-  <a href="https://linkedin.com/in/paramita-das-14116b2b4">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="mailto:paro12959@gmail.com">
-    <img src="https://img.shields.io/badge/email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+Building at the intersection of AI, healthcare, and scalable systems — aiming to create real-world impact through technology.
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rai2608&color=00ff9c&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Rai2608&color=blue" />
 </p>
