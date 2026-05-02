@@ -8,9 +8,8 @@
 
 ## 🚀 About Me
 
-```bash
-> building ai systems that actually ship
-```
+building ai systems that actually ship
+
 
 💡 Working at the intersection of **healthcare, data, and scalable systems**
 
@@ -48,10 +47,6 @@
 ---
 
 ## 💼 Featured Projects
-
-```bash
-$ ls projects/
-```
 
 - 🩺 **DiaSense AI**  
   → AI-powered diagnostic system for early health insights  
@@ -108,11 +103,11 @@ $ ls projects/
 
 ## 🎯 Vision
 
-```bash
+
 > build systems that scale  
 > solve real-world problems  
 > ship, iterate, repeat  
-```
+
 
 ---
 
