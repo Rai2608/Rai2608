@@ -1,10 +1,5 @@
-<h1 align="center">Hi 👋, I'm Paramita</h1>
+![GitHub Banner](github-header-banner.png)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+AI+Products;Healthcare+%2B+Data+%2B+Systems;Backend+%2F+System+Design+Focused;Future+Tech+Founder" />
-</p>
-
----
 
 ## 🚀 About Me
 
