@@ -1,21 +1,30 @@
 ![GitHub Banner](github-header-banner.png)
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=building+ai+systems;healthcare+%2B+data+%2B+backend;scaling+ideas+into+products" />
+</h3>
+
+---
 
 ## 🚀 About Me
 
-💡 Building AI-powered products at the intersection of **healthcare, data, and scalable systems**
+```bash
+> building ai systems that actually ship
+```
 
-🧠 Developed:
-- 🩺 **DiaSense AI** → diagnostic intelligence for early health insights  
-- 📱 **Pulse AI** → intelligent application  
-- 📊 **Hotstar Churn Analysis** → data-driven user retention modeling  
+💡 Working at the intersection of **healthcare, data, and scalable systems**
 
-⚙️ Focus:
-- Backend engineering  
-- System design  
-- Deploying ML beyond notebooks  
+🧠 Built:
+- 🩺 **DiaSense AI** → ML-powered diagnostic intelligence  
+- 📱 **Pulse AI** → real-time intelligent application  
+- 📊 **Hotstar Churn Analysis** → user behavior + retention modeling  
 
-🎯 Goal: Build high-impact, scalable tech products  
+⚙️ Current focus:
+- backend engineering & APIs  
+- system design (scaling > syntax)  
+- deploying ML beyond notebooks  
+
+🎯 Goal: build high-impact, scalable tech products  
 
 ---
 
@@ -40,14 +49,18 @@
 
 ## 💼 Featured Projects
 
-🚀 **DiaSense AI**  
-AI-powered diagnostic assistant focused on early health insights  
+```bash
+$ ls projects/
+```
 
-⚡ **Pulse AI**  
-Smart application designed for real-time intelligence  
+- 🩺 **DiaSense AI**  
+  → AI-powered diagnostic system for early health insights  
 
-📊 **Hotstar Churn Analysis**  
-User behavior analysis & churn prediction for retention strategies  
+- ⚡ **Pulse AI**  
+  → intelligent app built for real-time decision support  
+
+- 📊 **Hotstar Churn Analysis**  
+  → data-driven insights to predict and reduce user churn  
 
 ---
 
@@ -87,18 +100,22 @@ User behavior analysis & churn prediction for retention strategies
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Rai2608&theme=dark" />
-  <img src="https://streak-stats.demolab.com/?user=Rai2608&theme=dark" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Rai2608&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Rai2608&theme=dark&hide_border=true" />
 </p>
 
 ---
 
 ## 🎯 Vision
 
-Building at the intersection of AI, healthcare, and scalable systems — aiming to create real-world impact through technology.
+```bash
+> build systems that scale  
+> solve real-world problems  
+> ship, iterate, repeat  
+```
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rai2608&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Rai2608&color=00f7ff" />
 </p>
